@@ -1,5 +1,4 @@
-[![觀看示範影片](https://youtube.com)](https://www.youtube.com/watch?v=nT827NsG_JU)
-
+🎬 **[觀看示範影片](https://www.youtube.com/watch?v=nT827NsG_JU)**
 
 # 🏓 手勢乒乓球 (Gesture Ping Pong)
 
